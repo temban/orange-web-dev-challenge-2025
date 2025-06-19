@@ -17,6 +17,7 @@ Temban Blaise Ayim
 - Employee add form with validation
 - Dynamic employee list display
 - Employee deletion functionality
+- Employee Update functionality
 - Data persistence using localStorage
 - Responsive interface (table view for desktop, cards for mobile)
 
@@ -25,7 +26,7 @@ Temban Blaise Ayim
 2. Click "Add Employee" to save the employee
 3. Employees appear immediately in the list
 4. Click "Delete" to remove an employee
-5. Update Employee Information 
+5. Click the "Edite" to Update Employee Information 
 
 ## Compatibility
 Tested on Chrome, Firefox and Edge. Mobile compatible.
