@@ -30,3 +30,11 @@ Temban Blaise Ayim
 
 ## Compatibility
 Tested on Chrome, Firefox and Edge. Mobile compatible.
+
+![Screenshot 2025-06-19 171217](https://github.com/user-attachments/assets/8c7e50b0-c8f3-4da4-89c4-bbe02a3320d1)
+![Screenshot 2025-06-19 171321](https://github.com/user-attachments/assets/668bf9db-af2d-46d8-ac68-8a242b45087e)
+![Screenshot 2025-06-19 171348](https://github.com/user-attachments/assets/29dd5f8c-e3fa-4bd4-b5b2-676768a56d6a)
+
+
+
+
