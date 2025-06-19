@@ -23,7 +23,7 @@ Temban Blaise Ayim
 - Data persistence using localStorage
 - Responsive interface (table view for desktop, cards for mobile)
 ### Bonus
-- - Employee Update functionality
+- Employee Update functionality
 
 
 ## How to Use
