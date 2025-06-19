@@ -9,6 +9,9 @@ Temban Blaise Ayim
 - CSS3
 - JavaScript (Vanilla)
 
+## Time Spent
+1 hours
+
 ## Installation Instructions
 1. Download the files (index.html, style.css, script.js)
 2. Open index.html in a web browser by double-clicking it
@@ -17,9 +20,11 @@ Temban Blaise Ayim
 - Employee add form with validation
 - Dynamic employee list display
 - Employee deletion functionality
-- Employee Update functionality
 - Data persistence using localStorage
 - Responsive interface (table view for desktop, cards for mobile)
+### Bonus
+- - Employee Update functionality
+
 
 ## How to Use
 1. Fill the form with employee information
