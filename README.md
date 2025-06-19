@@ -1,5 +1,4 @@
-# Employee Management
-
+# orange-web-dev-challenge-2025
 A front-end web application to manage a simplified employee directory.
 
 ## Author
