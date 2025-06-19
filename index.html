@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Orange Employee Management</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Employee Management</h1>
+        
+        <div class="form-container">
+            <h2>Add Employee</h2>
+            <form id="employeeForm">
+                <div class="form-group">
+                    <label for="lastName">Last Name*</label>
+                    <input type="text" id="lastName" required>
+                    <span class="error-message" id="lastNameError"></span>
+                </div>
+                
+                <div class="form-group">
+                    <label for="firstName">First Name*</label>
+                    <input type="text" id="firstName" required>
+                    <span class="error-message" id="firstNameError"></span>
+                </div>
+                
+                <div class="form-group">
+                    <label for="email">Email*</label>
+                    <input type="email" id="email" required>
+                    <span class="error-message" id="emailError"></span>
+                </div>
+                
+                <div class="form-group">
+                    <label for="position">Position*</label>
+                    <input type="text" id="position" required>
+                    <span class="error-message" id="positionError"></span>
+                </div>
+                
+                <button type="submit" class="btn">Add Employee</button>
+            </form>
+        </div>
+        
+        <div class="employees-container">
+            <h2>Employee List</h2>
+            <div id="employeeList"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
